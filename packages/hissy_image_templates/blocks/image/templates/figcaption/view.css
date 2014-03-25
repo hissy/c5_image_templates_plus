@@ -1,0 +1,13 @@
+.ccm-image-figure img {
+	border: solid 4px white;
+	-webkit-box-shadow: 0px 0px 0px 1px rgba(0,0,0,0.5);
+	box-shadow: 0px 0px 0px 1px rgba(0,0,0,0.5);
+	-moz-box-sizing: inherit;
+	box-sizing: inherit;
+	margin-bottom: .2em;
+}
+.ccm-image-figcaption {
+	font-size: smaller;
+	color: #888;
+	margin-bottom: 1em;
+}
